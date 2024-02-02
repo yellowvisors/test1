@@ -1,0 +1,11 @@
+html .theme-entry{
+                    page-background-color: blue;
+}
+.theme-entry h1{
+                                font-size: 80px;
+                                font-family: 'proxima-nova', sans-serif;
+                    }
+.theme-entry button{
+                                font-family: 'proxima-nova', sans-serif;
+                                font-size: 80px;
+}
